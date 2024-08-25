@@ -1,0 +1,6 @@
+subscription_id    = "<your_subscription_id>"
+location           = "East US 2"
+resource_group_name = "my-resource-group"
+container_image    = "nginx:latest"
+cpu                = "1"
+memory             = "2"
